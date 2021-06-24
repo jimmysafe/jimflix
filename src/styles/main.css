@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.slick-list {
+    padding: 100px 0;
+    margin: -100px 0;
+  }
